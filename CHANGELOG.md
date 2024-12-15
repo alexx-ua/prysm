@@ -2945,7 +2945,7 @@ Please check that you are not using any of the removed flags in this section!
 - Tooling for prior testnet contracts has been removed. Any of the old testnet contracts with `drain()` function have
   been removed as well.
 - Toledo tesnet config is removed.
-- Removed --eth-api-port (beacon node). All APIs interactions have been moved to --grpc-gateway-port. See.
+- Removed --eth-api-port (beacon node). Updated API interactions in the latest release.
 
 ### Fixed
 
